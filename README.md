@@ -1,4 +1,4 @@
-# React Sprint Challenge
+# React Sprint Challenge by emre
 
 **Talimatları dikkatlice okuyun.Sprint Challenge için tam olarak neler istendiğini iyice anlamadan başlamayın.**
 
